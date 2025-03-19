@@ -1,0 +1,32 @@
+[
+  {
+    "id": "wildcat-quest",
+    "name": "Wildcat Quest",
+    "description": "A gamified task management web app that incentivizes productivity through RPG elements.",
+    "overview": "Wildcat Quest takes task management to an epic new level. Users immerse themselves in an RPG-like environment where they're rewarded for completing everyday tasks. Whether it's tackling the laundry mountain or hitting the books, each task completed earns points and progresses the user's avatar, fostering a fun and productive way to manage daily life. It's more than a to-do list; it's a quest for productivity, engaging users in a rewarding journey through their real-life chores.",
+    "image": "/assets/project1.png",
+    "tools": ["React", "Node.js", "Firebase", "Firestore"],
+    "caseStudyPath": "/projects/wildcat-quest",
+    "link": "https://wildcatquest-b1eb7.web.app"
+  },
+  {
+    "id": "stay-fresh",
+    "name": "Stay Fresh",
+    "description": "An AI-powered app that identifies grocery items via photos and tracks their expiration dates.",
+    "overview": "Stay Fresh is revolutionizing the kitchen with cutting-edge AI that keeps your groceries in check. Snap a photo, and the app's object detection technology identifies each grocery item, cataloging it along with its expiration date. As perishables near the end of their shelf life, the app sends alerts, ensuring nothing goes to waste. It's the perfect kitchen companion for the savvy shopper looking to avoid food waste, save money, and stay healthy with fresh ingredients always at hand.",
+    "image": "/assets/project2.png",
+    "tools": ["TensorFlow", "React", "Node.js", "MongoDB"],
+    "caseStudyPath": "/projects/stay-fresh",
+    "link": "https://groceryhelper-fdb2d.web.app"
+  },
+  {
+    "id": "echo-expert",
+    "name": "Echo Expert",
+    "description": "A specialized directory for connecting journalists to industry experts for insightful interviews.",
+    "overview": "Echo Expert is a game-changer for journalists and newsrooms aiming to enhance their stories with authoritative voices. Our platform connects media professionals with a curated network of industry experts across various fields. Users can search for experts by field and alma mater, view detailed profiles, read ratings on interview experiences, and get personalized expert recommendations. With Echo Expert, uncovering the right voice for your story is just a few clicks away, ensuring high-quality, credible, and engaging content for audiences.",
+    "image": "/assets/project3.png",
+    "tools": ["Elasticsearch", "React", "Node.js", "Kibana", "tailwindcss"],
+    "caseStudyPath": "/projects/echo-expert",
+    "link": "https://echoexpert-c13ad.web.app"
+  }
+]
